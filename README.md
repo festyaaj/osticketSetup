@@ -19,15 +19,13 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Post-Install Configuration Objectives</h2>
 
 - Create roles and teams
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Add new SLA and set priorities
+- Configure Help Topics
 
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://imgur.com/4sftwLZ" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/4sftwLZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Configured Sys Admin, Support roles, usernames, and assigned permissions.
@@ -35,7 +33,7 @@ Configured Sys Admin, Support roles, usernames, and assigned permissions.
 <br />
 
 <p>
-<img src="https://imgur.com/QSi6xzM" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/QSi6xzM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Added new Service Level Agreement plans and set priorities
@@ -43,9 +41,9 @@ Added new Service Level Agreement plans and set priorities
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/sRIWYj8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Configure Help Topics for ticketing system
 </p>
 <br />
